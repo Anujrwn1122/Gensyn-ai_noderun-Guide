@@ -301,7 +301,7 @@ source .venv/bin/activate
 ./run_rl_swarm.sh
 ```
 
-* Now follow all the process from [5️⃣ Run the swarm Node](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide/edit/main/README.md#5%EF%B8%8F%E2%83%A3-run-the-swarm-node)
+* Now follow all the process from [5️⃣ Run the swarm Node](https://github.com/Anujrwn1122/Gensyn-ai_noderun-Guide?tab=readme-ov-file#5%EF%B8%8F%E2%83%A3-run-the-swarm-node)
 
 * If u still Got terminated error then just restart 1-2 times: or just wait few minutes:
 
