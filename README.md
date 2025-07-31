@@ -1,6 +1,3 @@
-# Gensyn-ai_noderun-Guide
-<div align="center">
-
 # 💻 Gensyn-ai-Noderun_Guide {Mac/Linux} 💻
 
 </div>
