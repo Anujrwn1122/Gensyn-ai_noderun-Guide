@@ -482,8 +482,4 @@ git pull origin main
 
 👉 Join TG for more Updates: https://telegram.me/OxAnuj
 
-If U have any issue then open a issue on this repo or Dm me on TG~
-
-Thank U! 👨🏻‍💻    Happy Coding💗
-
 </pre>
