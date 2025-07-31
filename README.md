@@ -132,7 +132,7 @@ source .venv/bin/activate
 
 ---❗ If U put model manually then it can be cause of terminated❗--- So better to use Default:
 
------->>>If u want to select the model then choose between them: [5️⃣ Choose customised model's](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide/edit/main/README.md#5%EF%B8%8F%E2%83%A3-choose-customised-models)
+------>>>If u want to select the model then choose between them: [5️⃣ Choose customised model's](https://github.com/Anujrwn1122/Gensyn-ai_noderun-Guide?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-how-to-get-the-node-name)
 
 
 Here we go🚀
